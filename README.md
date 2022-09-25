@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando com back-end
-- 🖥️ Possuo grande interesse na area de jogos e análise de dados
+- 🖥️ Tenho bastante interesse na area de jogos e análise de dados
 
 <div>
 	<a href ="https://github.com/marcelolcrespo">
